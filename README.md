@@ -1,7 +1,7 @@
 # fcc-tribute-repo
 Repo for FCC tribute-site
 
-fcc-trubute-site with a personal touch should include:
+## fcc-trubute-site with a personal touch should include:
 
 User Story #1: My tribute page should have an element with a corresponding id="main", which contains all other elements.
 
